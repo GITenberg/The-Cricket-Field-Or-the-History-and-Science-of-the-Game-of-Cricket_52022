@@ -1,0 +1,25 @@
+_repo: The-Cricket-Field-Or-the-History-and-Science-of-the-Game-of-Cricket_52022
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pycroft, James
+    birthdate: 1813
+    deathdate: 1895
+    gutenberg_agent_id: '46635'
+    url: http://www.gutenberg.org/2009/agents/46635
+description: ''
+gutenberg_issued: '2016-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52022'
+  lccn: 05002408
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cricket'
+- !lcc 'GV'
+- GITenberg
+title: 'The Cricket Field: Or, the History and Science of the Game of Cricket'
+url: http://www.gutenberg.org/ebooks/52022
